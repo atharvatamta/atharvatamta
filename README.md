@@ -10,7 +10,7 @@
 
 ## 🧩 What I’m Doing Now:
 - Working as a **Software Development Associate**
-- Building production-grade web applications
+- Building production grade web applications
 - Writing code that scales beyond demos
 - Learning by doing, not just reading docs
 
