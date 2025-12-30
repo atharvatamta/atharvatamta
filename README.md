@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Atharva</h1>
+<h1 align="center">Hi 👋, I'm Atharva Tamta</h1>
 <h3 align="center">Software Development Associate | Frontend heavy Full Stack Builder from India</h3>
 
 <h3 align= "centre"> I’m currently working as a <b>Software Development Associate</b>, where I focus on building production ready web applications, writing clean and reusable code, integrating APIs and databases, and working with modern frontend tooling and workflows. </h3>
