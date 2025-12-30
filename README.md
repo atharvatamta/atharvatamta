@@ -1,36 +1,14 @@
-## ⚡ Hey, I’m Atharva
+<h1 align="center">Hi 👋, I'm Atharva</h1>
+<h3 align="center">Software Development Associate | Frontend heavy Full Stack Builder from India</h3>
 
-I build things, break them, fix them, and ship again.
-I work across the stack with a strong focus on **modern frontend**, **scalable backends**, and **high performance web apps**.  
-I like clean abstractions, fast feedback loops, and tools that actually get out of the way.
+<h3 align= "centre"> I’m currently working as a <b>Software Development Associate</b>, where I focus on building production ready web applications, writing clean and reusable code, integrating APIs and databases, and working with modern frontend tooling and workflows. </h3>
+<p align="left">
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-## 🧠 Stack I Use to Ship :
-
-### Frontend 
-- JavaScript  
-- TypeScript  
-- React  
-- Next.js  
-- Redux  
-- Zustand  
-- Tailwind CSS  
-- Three.js  
-- React Three Fiber  
-
-### Backend
-- Node.js  
-- Express  
-- MongoDB  
-
-### Infra & Testing
-- Docker  
-- React Testing Library  
-
----
-
-## 🧩 What I’m Doing Now
+## 🧩 What I’m Doing Now:
 - Working as a **Software Development Associate**
 - Building production-grade web applications
 - Writing code that scales beyond demos
@@ -38,7 +16,7 @@ I like clean abstractions, fast feedback loops, and tools that actually get out 
 
 ---
 
-## 🧪 Currently Experimenting With
+## 🧪 Currently Experimenting With:
 - Advanced React and state management patterns  
 - Next.js performance and architecture  
 - 3D interfaces on the web  
@@ -51,13 +29,7 @@ I care about:
 - Shipping over perfection  
 - Readable code over clever code  
 - Systems that don’t fall apart under load  
-
-If it works, it ships.  
-If it breaks, I fix it.
-
 ---
+<h3 align="centre"> ⚡ If it works, it ships. If it breaks, I fix it.</h3>
 
-## 📬 Reach Out
-Open to ideas, collaborations, and interesting problems.
 
-Check out my repos — that’s where the real story is.
