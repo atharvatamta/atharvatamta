@@ -21,7 +21,7 @@
 <h3>🧩 What I’m Doing Now: </h3>
 
 - Software Development Associate  
-- Production-grade web applications  
+- Production grade web applications  
 - Writing scalable code  
 - Learning by building  
 
@@ -29,7 +29,7 @@
 
 <td width="33%" valign="top">
 
-<h3>🧪 Currently Experimenting: </h3>
+<h3>🧪 Currently working on: </h3>
 
 - Advanced React patterns  
 - Next.js architecture & performance  
@@ -40,7 +40,7 @@
 
 <td width="33%" valign="top">
 
-<h3>🧑‍💻 Builder Mindset: </h3>
+<h3>🧑‍💻 My Mindset: </h3>
 
 - Shipping over perfection  
 - Readable code over clever code  
